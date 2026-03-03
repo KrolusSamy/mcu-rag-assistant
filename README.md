@@ -64,11 +64,11 @@ Chunking Strategy: RecursiveCharacterTextSplitter configured with large 1200-cha
 
 **Tested on NVIDIA RTX 5060 (8GB VRAM)**
 
-  Metric             Result
-  ------------------ ------------------------------------------
-  VRAM Footprint     \~6.2 GB (Stable)
-  Response Latency   6s (min) - 15s (max)
-  Memory Limit       Truncated at 12 messages for VRAM safety
+|  Metric             |Result|
+|  ------------------ |------------------------------------------|
+|  VRAM Footprint   |  \~6.2 GB (Stable)|
+|  Response Latency |  6s (min) - 15s (max)|
+|  Memory Limit      | Truncated at 12 messages for VRAM safety|
 
 ------------------------------------------------------------------------
 
